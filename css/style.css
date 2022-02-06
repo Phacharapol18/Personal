@@ -1,0 +1,154 @@
+/**************************class selector************************/
+.top {
+  background-color: #FAEEE7;
+  padding-top: 100px;
+  width: 100%;
+}
+.bottom {
+  background-color:#FAEEE7;
+  width: 100%;
+  padding: 20px;
+  position: fixed;
+  bottom: 0;
+  z-index: 10;
+}
+.footer-link {
+  margin: 10px 20px;
+  font-size: 1.125rem;
+  text-decoration: none;
+  font-weight: bold;
+}
+.copy {
+  margin: 0 auto;
+  padding: 20px;
+  font-size: 0.75rem;
+  color: #ADC2A9;
+}
+.profile {
+  width: 20%;
+  margin: 100px auto;
+}
+
+.bottomcloud {
+  position: absolute;
+  left: 386px;
+  width: 250px;
+}
+.topcloud {
+  position: absolute;
+ right: 500px;
+ top: 28px;
+}
+.forest {
+  width: 75%;
+  text-align: center;
+}
+.ppro {
+  width: 60%;
+}
+.skills-heading {
+  font-weight: normal;
+}
+.mechanic {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.code {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.top-p {
+  font-size: 2rem;
+  font-weight: normal;
+}
+.skill-1 {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.skill-2 {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.btn {
+  background: #91C483;
+  background-image: -webkit-linear-gradient(top, #91C483, #9dad6a);
+  background-image: -moz-linear-gradient(top, #91C483, #9dad6a);
+  background-image: -ms-linear-gradient(top, #91C483, #9dad6a);
+  background-image: -o-linear-gradient(top, #91C483, #9dad6a);
+  background-image: linear-gradient(to bottom, #91C483, #9dad6a);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: 'Arima Madurai', cursive, sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+.btn:hover {
+  background: #BF8B67;
+  background-image: -webkit-linear-gradient(top, #BF8B67, #b7bd66);
+  background-image: -moz-linear-gradient(top, #BF8B67, #b7bd66);
+  background-image: -ms-linear-gradient(top, #BF8B67, #b7bd66);
+  background-image: -o-linear-gradient(top, #BF8B67, #b7bd66);
+  background-image: linear-gradient(to bottom, #BF8B67, #b7bd66);
+  text-decoration: none;
+}
+.contact {
+  width: 50%;
+  margin: 50px auto 160px;
+}
+.contact-discription {
+  margin-bottom: 35px;
+}
+/*************************element selector**************************/
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Arima Madurai', cursive, sans-serif;
+  color: #2C3333;
+}
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Lobster Two', cursive;
+  font-size: 3.125rem;
+  color: #A1B57D;
+  line-height: 2;
+}
+h2 {
+  font-family: 'Eczar', serif;
+  color: #A1B57D;
+}
+h3{
+  font-family: 'Eczar', serif;
+  color: #11999E;
+}
+hr {
+  border-width: 5px;
+  background-color: white;
+  border-style: dotted;
+  width: 20%;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-color: #EFDAD7;
+  margin: 0 auto;
+}
+a{
+  color: #11999E;
+  font-family: 'Eczar', serif;
+}
+a:hover {
+  color: #053742;
+}
+p {
+  line-height: 2;
+}
+
+/******************************id selector**************************/
